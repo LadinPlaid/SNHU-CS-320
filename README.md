@@ -1,4 +1,5 @@
 # CS-320 Project One – Contact Service
+[![Java Tests](https://github.com/LadinPlaid/SNHU-CS-320/actions/workflows/tests.yml/badge.svg)](https://github.com/LadinPlaid/SNHU-CS-320/actions/workflows/tests.yml)
 
 ## Overview
 
